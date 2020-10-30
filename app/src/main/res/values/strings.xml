@@ -1,0 +1,34 @@
+<resources>
+
+    <string-array name="titles">
+        <item>Will help properly distribute the cargo in the container, the truck, on the pallet in 3D</item>
+        <item>Modelling the client\'s order in the program on transport with preset sizes or manually set</item>
+        <item>Increase the efficiency of transshipment operations using 3D models to clearly display the location of the cargo;  form a step-by- step scheme of cargo loading</item>
+
+    </string-array>
+
+    <string-array name="examples">
+        <item>Example #1</item>
+        <item>Example #2</item>
+        <item>Example #3</item>
+        <item>Example #4</item>
+        <item>Example #5</item>
+        <item>Example #6</item>
+
+    </string-array>
+
+
+    <string name="app_name">GarpixLoadSystem</string>
+    <string name="try_demo">Try demo</string>
+    <string name="cargo_space">The system is clever planning of cargo space: </string>
+    <string name="cont">Continue</string>
+    <string name="select">Select demo example:</string>
+    <string name="ar_mode">AR scene</string>
+    <string name="scene_mode">3D scene</string>
+    <string name="set_model">Set model</string>
+    <string name="back"> Back</string>
+    <string name="remove_model">Remove model</string>
+    <string name="will_help">Will help properly distribute the cargo in the container, the truck, on the pallet in 3D</string>
+    <string name="modeling">Modelling the client\'s order in the program on transport with preset sizes or manually set.</string>
+    <string name="increase">Increase the efficiency of transshipment operations using 3D models to clearly display the location of the cargo;  form a step-by- step scheme of cargo loading.</string>
+</resources>
