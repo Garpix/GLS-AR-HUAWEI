@@ -28,7 +28,7 @@ In the next updates:
 
 ## Other
 
-Huawei Mobile Services, HMS.
+#HuaweiMobileServices, #HMS.
 
 This work is intended for the Huawei Honor Cup 2020 competition.
 
